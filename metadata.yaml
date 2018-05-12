@@ -6,16 +6,18 @@ covers:
 creator:
   authors:
   - agent_name: Watson, John R. (John Reay)
-    birthdate: &id001 1872
+    birthdate: 1872
     gutenberg_agent_id: '3300'
     url: http://www.gutenberg.org/2009/agents/3300
   - agent_name: Rees, Arthur J. (Arthur John)
-    birthdate: *id001
+    birthdate: 1872
     deathdate: 1942
     gutenberg_agent_id: '4400'
     url: http://www.gutenberg.org/2009/agents/4400
     wikipedia: http://en.wikipedia.org/wiki/Arthur_J_Rees
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45658#The-Mystery-of-the-Downs
 gutenberg_issued: '2014-05-16'
 gutenberg_type: Text
 identifiers:
