@@ -1,0 +1,32 @@
+_repo: The-Mystery-of-the-Downs_45658
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45658-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Watson, John R. (John Reay)
+    birthdate: &id001 1872
+    gutenberg_agent_id: '3300'
+    url: http://www.gutenberg.org/2009/agents/3300
+  - agent_name: Rees, Arthur J. (Arthur John)
+    birthdate: *id001
+    deathdate: 1942
+    gutenberg_agent_id: '4400'
+    url: http://www.gutenberg.org/2009/agents/4400
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_J_Rees
+description: ''
+gutenberg_issued: '2014-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Detective and mystery stories'
+title: The Mystery of the Downs
+url: http://www.gutenberg.org/ebooks/45658
